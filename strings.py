@@ -1,4 +1,4 @@
-# #create string
+# create string
 # string_1 ="python is easy language"
 # print("i know" ,string_1)
 # #>>>>>>>>>>>>>>>>>>>>>>>>>>>
